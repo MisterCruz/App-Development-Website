@@ -1,7 +1,7 @@
 $(".animsition").animsition({
 
-  inClass               :   'fade-in',
-  outClass              :   'fade-out',
+  inClass               :   'fade-in-right-lg',
+  outClass              :   'fade-out-right-lg',
 
 
 
